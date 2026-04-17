@@ -1,4 +1,3 @@
-from IPython.display import Image
 import sys
 print(sys.version)
 # load numpy
